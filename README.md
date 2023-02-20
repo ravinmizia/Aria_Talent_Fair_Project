@@ -1,2 +1,2 @@
-# Aria_Talent_Fair_Project
+# Aria Talent Fair Project
 Creating model to predict plant nutrition based on given dataset
